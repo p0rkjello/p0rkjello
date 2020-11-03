@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Ansible, Terraform
+- 🔭 I’m currently working on Ruby, PowerShell, Python
+- 📫 How to reach me: [Twitter](https://twitter.com/p0rkjello) or [LinkedIn](https://www.linkedin.com/in/asbounds/)
 
 <!--
 **p0rkjello/p0rkjello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
