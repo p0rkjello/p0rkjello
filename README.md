@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Ansible, Terraform
-- 🔭 I’m currently working on Ruby, PowerShell, Python
+- 🌱 I’m currently learning Ansible, Packer, Terraform
+- 🔭 I’m currently working on PowerShell, Python, Ruby
 - 📫 How to reach me: [Twitter](https://twitter.com/p0rkjello) or [LinkedIn](https://www.linkedin.com/in/asbounds/)
 
 <!--
@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image](https://user-images.githubusercontent.com/3104489/97828882-616ae680-1c96-11eb-8110-4f39349b4033.gif)
